@@ -10,7 +10,7 @@ function App() {
           Demostración: Aplicación hecha en React desplegada en AWS
         </p>
         <p>
-          <code> Rafael </code>.
+          <code> Sebastían </code>.
         </p>
         <a
           className="App-link"
